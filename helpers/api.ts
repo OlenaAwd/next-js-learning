@@ -10,3 +10,4 @@ export const API = {
 		createDemo: process.env.NEXT_PUBLIC_DOMAIN + '/api/review/create-demo'
 	}
 };
+
